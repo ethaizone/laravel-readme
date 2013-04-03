@@ -3,6 +3,10 @@ Readme for Laravel
 
 Simple Readme viewer for Laravel Bundle and can support any text file that can found in bundle too. This bundle use code from [Bundocs](https://github.com/codenitive/laravel-bundocs).
 
+This bundle can help you to read Readme in bundle that you installed. It will help you a lot for you don't  have to goback to their github and view their Readme. You can view all Readme in one place. 
+
+After you installed, you can view this bundle from /readme route.
+
 ## Installation
 
 Installation with Laravel Artisan
